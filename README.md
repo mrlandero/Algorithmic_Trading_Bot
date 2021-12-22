@@ -224,3 +224,9 @@ As we can see with this latest model (LR Model), the strategy returns underperfo
 
 **Created by:** Tony Landero<br>
 **Email Adress:** mr.landero@gmail.com
+
+---
+
+## License
+
+MIT
