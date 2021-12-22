@@ -202,4 +202,19 @@ The following image displays the output of this step:
 
 ![LR Classification Report](lr_classification_report.png)
 
-Step 27: 
+Step 27: Create a predictions DataFrame. Add the LR model predictions to the DataFrame. Add the actual returns to the DataFrame. Add the strategy returns to the DataFrame.
+
+The following image displays the output of this step:
+
+![LR Predictions DF](lr_pred_df.png)
+
+Step 28: Plot the actual returns versus the strategy returns.
+
+The following image displays the output of this step:
+
+![LR Returns Plot](lr_returns_plot.png)
+
+Step 29: Analyze the LR Model Returns
+
+As we can see with this latest model (LR Model), the strategy returns underperformed the tuned model. This strategy had a return of 1.15 times our capital, which is considerably less than the 1.8 times our investment with our tuned model.
+
