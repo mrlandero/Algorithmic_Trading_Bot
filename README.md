@@ -218,3 +218,9 @@ Step 29: Analyze the LR Model Returns
 
 As we can see with this latest model (LR Model), the strategy returns underperformed the tuned model. This strategy had a return of 1.15 times our capital, which is considerably less than the 1.8 times our investment with our tuned model.
 
+---
+
+## Contributors
+
+**Created by:** Tony Landero<br>
+**Email Adress:** mr.landero@gmail.com
